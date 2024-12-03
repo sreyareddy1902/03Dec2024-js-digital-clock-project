@@ -1,0 +1,16 @@
+
+#a{
+    width: 25%;
+    height: 200px;
+    border: 1px solid black;
+    margin-top: 100px;
+    border-radius: 100%;
+}
+
+#b1{
+    color: red;
+}
+
+#b2{
+    color: blue;
+}
